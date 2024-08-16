@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **React,OOP,PHP,SQL,MongoDB**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **PHP & NETWORK**
 
 - 📫 How to reach me **damithnamal36@gmail.com**
 
-- ⚡ Fun fact **I think i am funny guy**
+- ⚡ Fun fact **I think i am Strategy mastermind **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
